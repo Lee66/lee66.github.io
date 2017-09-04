@@ -24,7 +24,7 @@ nightMode: true
 
 # Comments
 disqus: false
-disqus_url: 'https://liaokeyu.disqus.com/embed.js'
+disqus_url: 'https://unpkg.com/embed-js'
 
 # Share
 social-share: true
