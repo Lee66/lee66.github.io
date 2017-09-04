@@ -1,5 +1,13 @@
-# Object file
-*.o
-
-# Ada Library Information
-*.ali
+node_modules
+node_modules/*.*
+dump.rdb
+.idea
+.sass-cache
+*.scssc
+*.map
+nbproject
+npm-debug.log
+.project
+.DS_Store
+*.DS_Store
+_site
