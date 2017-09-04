@@ -8,6 +8,7 @@ dump.rdb
 nbproject
 npm-debug.log
 .project
+.gitignore
 .DS_Store
 *.DS_Store
 _site
